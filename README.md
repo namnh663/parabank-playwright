@@ -109,3 +109,7 @@ In addition to the built-in HTML reports, you can also consider using third-part
    ```
 
 By integrating Currents into your Playwright testing workflow, you can benefit from advanced reporting features and gain insights into your test results in real-time.
+
+https://github.com/namnh663/parabank-playwright/assets/74748329/6bcbf99a-4ca5-4f10-8d80-184c41c8e96e
+
+https://github.com/namnh663/parabank-playwright/assets/74748329/9d8130c7-accd-435a-9fc6-b19c9c96bfd2
