@@ -23,13 +23,13 @@ Follow these steps to set up and run the Playwright tests for the ParaBank websi
 1. **Clone the Repository**: Start by cloning this GitHub repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/parabank-playwright-tests.git
+   git clone https://github.com/namnh663/parabank-playwright.git
    ```
 
 2. **Navigate to the Project Folder**:
 
    ```bash
-   cd parabank-playwright-tests
+   cd parabank-playwright
    ```
 
 3. **Install Dependencies**: Install the required dependencies by running:
